@@ -7,8 +7,6 @@ A continuación, se plantea la arquitectura a alto nivel del almacenamiento de l
 
 ![](https://github.com/franrs6/Ilunion/blob/master/Modelo_Entidad_Relaci%C3%B3n.PNG)
 
-
-
-
-
+Las herramientas necesarias y el papel que van tomar en este proyecto se describe a continuación:
+  * sfsdfafsd
 
