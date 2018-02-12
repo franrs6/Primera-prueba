@@ -5,7 +5,7 @@ Este proyecto consiste en la implementación de un listener para Ilunion. El lis
 El lenguaje de programación empleado para la extracción de la información es python.
 A continuación, se plantea la arquitectura a alto nivel del almacenamiento de la información obtenida por la herramienta de escucha activa. 
 
-
+![texto cualquiera por si no carga la imagen](https://github.com/franrs6/Ilunion/blob/master/Modelo_Entidad_Relaci%C3%B3n.PNG)
 
 
 
