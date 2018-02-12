@@ -1,4 +1,4 @@
-Listener Ilunion.
+Listener 
 
 Este proyecto consiste en la implementación de un listener para Ilunion. El listener o herramienta de escucha activa consiste en la extracción de información de una red social, en este caso twitter, mediante unas keywords impuestas por el usuario y en tiempo real.
 
